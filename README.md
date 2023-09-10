@@ -1,3 +1,4 @@
 # comments-socket-io
 commenting with socket-io
-used VITE for creating React Applications.
+🇺🇿: used VITE for creating React Application.
+
